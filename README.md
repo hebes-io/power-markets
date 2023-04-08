@@ -1,6 +1,8 @@
 Power Markets
 ===============
 
+[![PyPI version](https://badge.fury.io/py/power-markets.svg)](https://badge.fury.io/py/power-markets)
+
 This package includes data from power markets in Europe.
 
 After installing the package, data is available as an [intake catalog](https://intake.readthedocs.io/en/latest/index.html). As an example:
